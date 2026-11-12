@@ -1,0 +1,9 @@
+﻿KeyWord-1.0.apk
+SHA-256: 0752B4197B29EFEB9C5787EDB5653DE11E72EF1E05AABCBC9D7ECB197782E851
+Size: 92,458,898 bytes (88.2 MiB)
+Version: 1.0 (versionCode 1)
+Build date: 2026-11-12
+
+校验方法：
+  PowerShell: Get-FileHash .\KeyWord-1.0.apk -Algorithm SHA256
+  macOS/Linux: shasum -a 256 KeyWord-1.0.apk
